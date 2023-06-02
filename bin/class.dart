@@ -1,4 +1,4 @@
-//Membuat class Person
+///Membuat class Person
 class Person{
 
 
